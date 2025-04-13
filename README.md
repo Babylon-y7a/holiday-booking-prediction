@@ -1,4 +1,4 @@
-# ✈ Holiday Booking Prediction
+#  Holiday Booking Prediction
 
 This project aims to build a machine learning model that predicts whether a customer will complete a holiday booking based on their behavior and flight-related preferences. The analysis was done as part of a business case to help airlines **proactively identify high-value customers before they travel**.
 
@@ -17,7 +17,7 @@ The dataset included flight details (day, hour, route), customer preferences (me
 
 The target variable was `booking_complete` (1 = yes, 0 = no).
 
-## 🛠 Approach
+## Approach
 
 **Exploratory Steps:**
 - Class imbalance detected (1 = ~15% of data)
